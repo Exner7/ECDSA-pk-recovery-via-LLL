@@ -1,4 +1,4 @@
-# Exercise 3 - ECDSA: Lattice Basis Reduction Attack with nonce LSBs leak
+# ECDSA: Lattice Basis Reduction Attack with nonce LSBs leak
 
 ## Table of contents
 
