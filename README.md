@@ -467,8 +467,3 @@ So, that’s it! the recovered private key 🔑 is:
 -   [Guessing Bits: Improved Lattice Attacks on (EC)DSA with Nonce Leakage, Chao Sun, Thomas Espitau, Mehdi Tibouchi, and Masayuki Abe](https://eprint.iacr.org/2021/455.pdf)
 
 -   [Biased Nonce Sense: Lattice Attacks against Weak ECDSA Signatures in Cryptocurrencies, Joachim Breitner, Nadia Heninger](https://eprint.iacr.org/2019/023.pdf)
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
-</script>
